@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Afraar
 
 Software Engineer
-<img align="right" width="420" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 - 💻 Vist my [portfolio](https://)
 - 🎓 B.Sc. (Hons) in Computing & Information Systems UG at <a href="https://www.sab.ac.lk">SUSL</a>                                              
 - 👨🏻‍💻 I’m interested in web & app develoment
