@@ -5,7 +5,7 @@ Software Engineer
 - 💻 Vist my [portfolio](https://)
 - 🎓 B.Sc. (Hons) in Computing & Information Systems UG at <a href="https://www.sab.ac.lk">SUSL</a>                                              
 - 👨🏻‍💻 I’m interested in web & app develoment
-- 📖 I’m currently learning DSA
+- 📖 I’m currently learning Spring Framework
 - 💬 Ask me about Tech
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Business Analysis Enthusiast
