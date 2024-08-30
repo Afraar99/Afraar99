@@ -33,7 +33,7 @@ Software Engineer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Afraar99&show_icons=true&locale=en&theme=algolia" alt="Mohamed Afraar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraar99&theme=algolia" alt="Mohamed Afraar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraar99&theme=algolia" alt="Mohamed-Afraar" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/afraarPro?theme=dark&font=Marcellus&ext=contest)
 
