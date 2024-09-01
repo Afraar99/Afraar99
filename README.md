@@ -33,8 +33,7 @@ Software Engineer
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Afraar99&show_icons=true&locale=en&theme=algolia" alt="Mohamed Afraar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraar99&theme=algolia" alt="Mohamed-Afraar" /></p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/afraarPro?theme=dark&font=Marcellus&ext=contest)
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraar99&theme=algolia" alt="Mohamed-Afraar" /></p>  -->
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/afraarPro?theme=dark&font=Marcellus&ext=contest)  -->
 
 [![Afraar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afraar99&bg_color=000000&color=ffffff&line=2dba4e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
