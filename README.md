@@ -1,11 +1,13 @@
-## Hi there 🖖🏻 It's me Afraar
+Hi 👋 My name is Mohamed Afraar
+================================
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Afraar99&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-afraar" /> </p>
 
-Software Engineer
+Full Stack Developer | MERN | Java & Spring | Blogger
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 - 💻 Vist my [Portfolio](https://afraar99.github.io/Portfolio-Website/)
 - 🎓 B.Sc. (Hons) in Computing & Information Systems UG at <a href="https://www.sab.ac.lk">SUSL</a>                                              
-- 👨🏻‍💻 I’m interested in web & app develoment
+- 👨🏻‍💻 I’m interested in Full-Stack Web & Mobile App Develoment
 - 📖 I’m currently learning Spring Framework
 - 💬 Ask me about Tech
 - 😄 Pronouns: Techie
