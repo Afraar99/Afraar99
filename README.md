@@ -9,7 +9,7 @@ Full Stack Developer | MERN | Java & Spring | Blogger
 - 🎓 B.Sc. (Hons) in Computing & Information Systems UG at <a href="https://www.sab.ac.lk">SUSL</a>                                              
 - 👨🏻‍💻 I’m interested in Full-Stack Web & Mobile App Develoment
 - 📖 I’m currently learning Spring Framework
-- 💬 Passionate about tech, fueled by curiosity
+- 💬 Passionate about Tech, fueled by Curiosity
 - 😎 Pronouns: Techie
 - ⚡ Fun fact: Data & AI Enthusiast
 - 📧 You can reach me through : afraararm@gmail.com
