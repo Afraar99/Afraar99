@@ -1,4 +1,4 @@
-Hi 🙋🏻‍♂️ My name is Mohamed Afraar
+Hi 🙋🏻‍♂️ I'm Mohamed Afraar
 ================================
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Afraar99&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-afraar" /> </p>
