@@ -11,7 +11,7 @@ Full Stack Developer | MERN | Java & Spring | Blogger
 - 📖 I’m currently learning Spring Framework
 - 💬 Passionate about Tech, fueled by Curiosity
 - 😎 Pronouns: Techie
-- ⚡ Fun fact: Data & AI Enthusiast
+- ⚡ Fun fact: BA & UI/UX Enthusiast
 - 📧 You can reach me through : afraararm@gmail.com
 
 <h3 align="left">Connect with me:</h3>
