@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Afraar99&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-afraar" /> </p>
 
-## Full Stack Developer | UI/UX Designer | MERN & Spring Specialist
+## Full Stack Developer | UI/UX Designer | MERN & Spring
 
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
