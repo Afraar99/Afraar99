@@ -71,12 +71,15 @@
 
 ## GitHub Statistics 📊
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Afraar99&margin-w=15&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Afraar99&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <br/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afraar99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Mohamed Afraar" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Afraar99&theme=radical)](https://git.io/streak-stats)
+![Afraar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afraar99&show_icons=true&theme=radical) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Afraar99&show_icons=true&locale=en&theme=algolia" alt="Mohamed Afraar" /></p>
+[![Afraar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afraar99&bg_color=0d0d21&color=f452a9&line=6081cd&point=a6c4ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Afraar99&theme=algolia" alt="Mohamed-Afraar" /></p>
-
-[![Afraar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afraar99&bg_color=000000&color=ffffff&line=2dba4e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afraar99&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Mohamed Afraar" /></p> --!>
