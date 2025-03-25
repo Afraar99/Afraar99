@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Afraar99&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-afraar" /> </p>
 
-## Full Stack Developer | UI/UX Designer | MERN & Spring
+<img align="center" width="100%" alt="cover photo" src="https://github.com/Afraar99/Afraar99/blob/main/LinkedIn%20Cover%20Pic%20Afraar%20(1).png?raw=true">
 
-<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+## Full Stack Developer | UI/UX Designer | MERN & Spring
 
 ### About Me 🚀
 
@@ -63,10 +63,10 @@
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" />
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda" />
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse" />
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="Photoshop" />
 <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD" />
+<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse" />
+<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="Photoshop" />
 </p>
 
 ## GitHub Statistics 📊
