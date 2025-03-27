@@ -14,7 +14,6 @@
 - 💼 Check out my [Portfolio](https://afraar99.github.io/Portfolio-Website/) for my latest work
 - 📚 Currently diving deep into Spring Framework
 - 💡 Business Analysis & UI/UX Design enthusiast
-- 🌟 Known as: The Tech Explorer
 
 ### Let's Connect! 🤝
 
