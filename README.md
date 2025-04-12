@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="270" width="390" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="210" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 💡 **Passionate** about building intuitive digital experiences and scalable web applications
 - 🎨 **Skilled** in UI/UX design to create user-friendly interfaces
 - 📚 Currently diving into **advanced concepts in Spring Framework**
-- 🎓 Undergraduate in **Computing & Information Systems** at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk)
+- 🎓 Undergraduate in **Computing & Information Systems** at [Sabaragamuwa University](https://www.sab.ac.lk)
 - 💼 Check out my **[Portfolio](https://afraar99.github.io/Portfolio-Website/)** for my latest work
 - 🤝 Always open to **collaboration opportunities** and knowledge sharing!
 
