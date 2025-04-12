@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/mohamed-afraar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e76a8" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_USER_ID" target="_blank">
+  <a href="https://stackoverflow.com/users/23494963/mohamed-afraar" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=F48024" alt="Stack Overflow" />
   </a>
   <a href="mailto:afraararm@gmail.com">
