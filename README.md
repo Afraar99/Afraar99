@@ -10,19 +10,21 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a passionate Full-Stack Software Engineer and UI/UX Designer with proven expertise in **Front-End**, **Back-End**, **DevOps**, and **Cloud** environments. Currently, I'm a **Trainee Software Engineer at Intteq** and in my final year of **Computing & Information Systems** at [Sabaragamuwa University](https://www.sab.ac.lk). I excel at transforming complex challenges into scalable and efficient digital solutions.
+🚀 **Full-Stack Software Engineer** with strong hands-on experience in both **Front-End** and **Back-End** development. I build clean, scalable, and maintainable web apps.
 
-💻 **Full-Stack Development:** Building robust applications by leveraging modern technologies on both the client and server side.
+🌐 Skilled in **DevOps** and **Cloud Infrastructure**, working with CI/CD pipelines, Docker, and cloud services to streamline deployments and system operations.
 
-☁️ **DevOps & Cloud Integration:** Implementing CI/CD pipelines, automation, and cloud solutions to optimize and scale production environments.
+🎨 I also bring in my creative side as a **UI/UX Designer**, blending design thinking with development to deliver intuitive and user-friendly interfaces.
 
-🛠 **Innovative Problem Solving:** Utilizing advanced frameworks such as **Spring**, **React**, and **Next.js** to engineer high-quality software.
+💼 Currently a **Trainee Software Engineer at Intteq**, contributing to real-world projects while continuously sharpening my development skills.
 
-🎨 **UI/UX Design:** Creating intuitive and engaging interfaces that enhance user experiences.
+🎓 Final-year undergraduate pursuing **Computing & Information Systems** at **Sabaragamuwa University of Sri Lanka**, with a strong foundation in computer science fundamentals and industry-oriented technologies.
 
-🤝 **Collaborative Innovation:** Committed to sharing knowledge and collaborating on projects that push the boundaries of technology.
+🛠️ Passionate about solving real-world problems with technology and constantly learning to stay ahead in the tech game.
+
+🔗 **Check out my portfolio:** [afraar99.github.io/Portfolio-Website](https://afraar99.github.io/Portfolio-Website)
 
 <br/>
 
