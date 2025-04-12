@@ -12,14 +12,17 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="210" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I'm a passionate Full-Stack Software Engineer and UI/UX Designer with proven expertise in **Front-End**, **Back-End**, **DevOps**, and **Cloud** environments. Currently, I'm a **Trainee Software Engineer at Intteq** and in my final year of **Computing & Information Systems** at [Sabaragamuwa University](https://www.sab.ac.lk). I excel at transforming complex challenges into scalable and efficient digital solutions.
 
-- 💡 **Passionate** about building intuitive digital experiences and scalable web applications
-- 🎨 **Skilled** in UI/UX design to create user-friendly interfaces
-- 📚 Currently diving into **advanced concepts in Spring Framework**
-- 🎓 Undergraduate in **Computing & Information Systems** at [Sabaragamuwa University](https://www.sab.ac.lk)
-- 💼 Check out my **[Portfolio](https://afraar99.github.io/Portfolio-Website/)** for my latest work
-- 🤝 Always open to **collaboration opportunities** and knowledge sharing!
+💻 **Full-Stack Development:** Building robust applications by leveraging modern technologies on both the client and server side.
+
+☁️ **DevOps & Cloud Integration:** Implementing CI/CD pipelines, automation, and cloud solutions to optimize and scale production environments.
+
+🛠 **Innovative Problem Solving:** Utilizing advanced frameworks such as **Spring**, **React**, and **Next.js** to engineer high-quality software.
+
+🎨 **UI/UX Design:** Creating intuitive and engaging interfaces that enhance user experiences.
+
+🤝 **Collaborative Innovation:** Committed to sharing knowledge and collaborating on projects that push the boundaries of technology.
 
 <br/>
 
